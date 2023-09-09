@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "garbage.h": "c",
+        "walter.h": "c",
+        "tortuga.h": "c"
+    }
+}
